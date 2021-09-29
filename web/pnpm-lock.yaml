@@ -1,8 +1,8 @@
 lockfileVersion: 5.3
 
 specifiers:
-  '@commitlint/cli': 13.1.0
-  '@commitlint/config-conventional': 13.1.0
+  '@commitlint/cli': 13.2.0
+  '@commitlint/config-conventional': 13.2.0
   '@craco/craco': 6.3.0
   '@fortawesome/fontawesome-svg-core': 1.2.36
   '@fortawesome/free-regular-svg-icons': 5.15.4
@@ -11,7 +11,7 @@ specifiers:
   '@material-ui/core': 4.12.3
   '@material-ui/icons': 4.11.2
   '@testing-library/jest-dom': 5.14.1
-  '@testing-library/react': 12.1.0
+  '@testing-library/react': 12.1.1
   '@types/classnames': 2.3.0
   '@types/node': 15.6.0
   '@types/qrcode.react': 1.0.2
@@ -64,11 +64,11 @@ dependencies:
   u2f-api: 1.2.1
 
 devDependencies:
-  '@commitlint/cli': 13.1.0_typescript@4.4.3
-  '@commitlint/config-conventional': 13.1.0
+  '@commitlint/cli': 13.2.0_typescript@4.4.3
+  '@commitlint/config-conventional': 13.2.0
   '@craco/craco': 6.3.0_react-scripts@4.0.3
   '@testing-library/jest-dom': 5.14.1
-  '@testing-library/react': 12.1.0_react-dom@17.0.2+react@17.0.2
+  '@testing-library/react': 12.1.1_react-dom@17.0.2+react@17.0.2
   '@types/classnames': 2.3.0
   '@types/node': 15.6.0
   '@types/qrcode.react': 1.0.2
@@ -1745,8 +1745,8 @@ packages:
       minimist: 1.2.5
     dev: true
 
-  /@commitlint/cli/13.1.0_typescript@4.4.3:
-    resolution: {integrity: sha512-xN/uNYWtGTva5OMSd+xA6e6/c2jk8av7MUbdd6w2cw89u6z3fAWoyiH87X0ewdSMNYmW/6B3L/2dIVGHRDID5w==}
+  /@commitlint/cli/13.2.0_typescript@4.4.3:
+    resolution: {integrity: sha512-RqG0cxxiwaL9OgQbA2ZEfZaVIRJmbtsZgnj5G07AjN7///s/40grSN4/kDl8YjUgvAZskPfJRoGGYNvHJ4zHWA==}
     engines: {node: '>=v12'}
     hasBin: true
     dependencies:
@@ -1763,8 +1763,8 @@ packages:
       - typescript
     dev: true
 
-  /@commitlint/config-conventional/13.1.0:
-    resolution: {integrity: sha512-zukJXqdr6jtMiVRy3tTHmwgKcUMGfqKDEskRigc5W3k2aYF4gBAtCEjMAJGZgSQE4DMcHeok0pEV2ANmTpb0cw==}
+  /@commitlint/config-conventional/13.2.0:
+    resolution: {integrity: sha512-7u7DdOiF+3qSdDlbQGfpvCH8DCQdLFvnI2+VucYmmV7E92iD6t9PBj+UjIoSQCaMAzYp27Vkall78AkcXBh6Xw==}
     engines: {node: '>=v12'}
     dependencies:
       conventional-changelog-conventionalcommits: 4.6.1
@@ -2644,8 +2644,8 @@ packages:
       redent: 3.0.0
     dev: true
 
-  /@testing-library/react/12.1.0_react-dom@17.0.2+react@17.0.2:
-    resolution: {integrity: sha512-Ge3Ht3qXE82Yv9lyPpQ7ZWgzo/HgOcHu569Y4ZGWcZME38iOFiOg87qnu6hTEa8jTJVL7zYovnvD3GE2nsNIoQ==}
+  /@testing-library/react/12.1.1_react-dom@17.0.2+react@17.0.2:
+    resolution: {integrity: sha512-JDyWbvMuedEpP6SPL4Cvbhk59TVxQ3pwuR6ZfJHdRsHuxDd/ziSMA3nVM3fViaSbsQhuQFE/mvFrPrvQbL5kRQ==}
     engines: {node: '>=12'}
     peerDependencies:
       react: '*'
